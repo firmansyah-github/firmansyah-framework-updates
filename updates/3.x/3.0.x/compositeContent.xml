@@ -2,15 +2,16 @@
 <?compositeMetadataRepository version='1.0.0'?>
 <repository name='&quot;Firmansyah Framework&quot; 3.0.x' type='org.eclipse.equinox.internal.p2.metadata.repository.CompositeMetadataRepository' version='1.0.0'>
   <properties size='2'>
-    <property name='p2.timestamp' value='1694570832553'/>
+    <property name='p2.timestamp' value='1694572509594'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='6'>
+  <children size='7'>
     <child location='../../../releases/3.0.0.v20230911-0841'/>
     <child location='../../../releases/3.0.0.v20230911-1345'/>
     <child location='../../../releases/3.0.0.v20230911-2248'/>
     <child location='../../../releases/3.0.0.v20230912-1340'/>
     <child location='../../../releases/3.0.0.v20230912-2304'/>
     <child location='../../../releases/3.0.0.v20230913-0205'/>
+    <child location='../../../releases/3.0.0.v20230913-0234'/>
   </children>
 </repository>
