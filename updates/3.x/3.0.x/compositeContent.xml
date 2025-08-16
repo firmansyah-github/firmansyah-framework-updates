@@ -9,6 +9,5 @@
     <child location='../../../releases/3.0.0.v20230930-0615'/>
     <child location='../../../releases/3.0.0.v20230930-1348'/>
     <child location='../../../releases/3.0.1.v20240529-1432'/>
-    <child location='../../../releases/3.0.2.v20250816-1605'/>
   </children>
 </repository>
