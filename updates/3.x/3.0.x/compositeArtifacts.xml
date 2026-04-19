@@ -5,15 +5,7 @@
     <property name='p2.timestamp' value='1776568661230'/>
     <property name='p2.atomic.composite.loading' value='false'/>
   </properties>
-  <children size='9'>
-    <child location='../../../releases/3.0.2.v20260417-0154'/>
-    <child location='../../../releases/3.0.2.v20260417-0257'/>
-    <child location='../../../releases/3.0.2.v20260417-0303'/>
-    <child location='../../../releases/3.0.2.v20260417-0306'/>
-    <child location='../../../releases/3.0.2.v20260417-0513'/>
-    <child location='../../../releases/3.0.2.v20260417-1948'/>
-    <child location='../../../releases/3.0.2.v20260419-0155'/>
-    <child location='../../../releases/3.0.2.v20260419-0159'/>
+  <children size='1'>
     <child location='../../../releases/3.0.2.v20260419-0316'/>
   </children>
 </repository>
